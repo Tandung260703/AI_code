@@ -1,0 +1,5 @@
+user1 = User("Nguyen", "Dung")
+print(user1.first_name)
+print(user1.last_name)
+user1.decribe_user()
+user1.greet_user()
